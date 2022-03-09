@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "870043274246",
+    "firebase_url": "https://notes-703c2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "notes-703c2",
+    "storage_bucket": "notes-703c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870043274246:android:ac3ffc2ba444d62d22c787",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870043274246-8fgjro47co7bsfn851fchtbtt14dih4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkIx8sSZM1OQyzXsthAej9S2RB0cAKGpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870043274246-8fgjro47co7bsfn851fchtbtt14dih4i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "870043274246-k6m5adtplvf6qv5kdvh8go2ek2gri83a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
